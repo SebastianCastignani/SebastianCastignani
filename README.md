@@ -14,6 +14,7 @@ I am results-oriented, adaptable, team-focused, and quick to learn when facing n
 - ☁️ **Cloud:** Experience with **GCP** and **AWS** services, deploying both from the console and through code (**IaC**).
 - 🧩 **Services:** BigQuery, Cloud Run, Storage, Lambda, EC2, AppConfig, S3, Lightsail, Fargate, and Route 53.
 - 🚀 **Goal:** Keep improving and add value in every project I work on.
+- 📧 **Contact email:** `sebacastignani14@gmail.com`
 
     </td>
     <td valign="top" width="38%" align="center">
